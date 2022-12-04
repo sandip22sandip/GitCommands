@@ -1,4 +1,4 @@
-##  Add .Git to the Project Roor Dir:-
+##  Add .Git to the Project Root Dir:-
 git init
 git add .
 git commit -m "Message"
