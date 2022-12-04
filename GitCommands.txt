@@ -7,8 +7,6 @@ git commit -m "Message"
 git remote add origin git@github.com:sandip22sandip/GitCommands.git
 git push -u origin main
 
-
-
 ## To see local branch names:-
 git branch
 
