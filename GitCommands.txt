@@ -1,4 +1,4 @@
-##  inA new repo from an existing project:-
+##  Add .Git to the Project Roor Dir:-
 git init
 git add .
 git commit -m "Message"
